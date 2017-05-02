@@ -1,4 +1,4 @@
-# website
+# hsercanatli.github.io
 The source code of my personal website
 
 Forty by HTML5 UP
