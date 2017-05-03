@@ -4003,3 +4003,6 @@ a :hover .resume{
     font-weight: bold;
 }
 
+li .ai-researchgate{
+	border-bottom: none;
+}
